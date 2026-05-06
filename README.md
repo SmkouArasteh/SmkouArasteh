@@ -81,7 +81,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SmkouArasteh&theme=dark&ring=fb4362&fire=fb4362&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SmkouArasteh&hide_border=true&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
