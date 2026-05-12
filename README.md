@@ -23,6 +23,8 @@
 ### 🚀 Featured Projects
 - 🔹 [Kavenegar SMS Module for Perfex CRM](https://github.com/SmkouArasteh/perfex-kavenegar-sms) – Automated SMS notifications for customers & staff
 - 🔹 [Zibal Payment Gateway for Perfex CRM](https://github.com/SmkouArasteh/Zibal-Payment-Getway) – Secure invoice payments via Zibal API
+- 🔹 [Portfolio](https://github.com/SmkouArasteh/portfolio) – Personal portfolio website built with Laravel 11, Filament 3, Tailwind CSS & Alpine.js
+- 🔹 [Process Management Module for Perfex CRM](https://github.com/SmkouArasteh/Perfex-Peocess-management-module) – Add powerful process pipelines to Perfex CRM. Drag-and-drop Kanban boards, multi-stage workflows, recurring items, email/SMS notifications and full staff permission control.
 
 ---
 
